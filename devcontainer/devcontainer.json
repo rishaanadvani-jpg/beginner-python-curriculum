@@ -11,7 +11,8 @@
       },
       "extensions": [
         "ms-python.python",
-        "ms-vsliveshare.vsliveshare"
+        "ms-vsliveshare.vsliveshare",
+        "formulahendry.code-runner"
       ]
     }
   }
